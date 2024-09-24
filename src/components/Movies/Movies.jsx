@@ -4,7 +4,6 @@ import { FaStar } from "react-icons/fa6";
 import { useDispatch, useSelector } from "react-redux";
 import { Link } from "react-router-dom";
 import { getMovies } from "../../Redux/PopularSlice";
-import { getMovie } from "../../Redux/Searchslice";
 
 export default function Movies() {
   const [isshown, setisshown] = useState({});
