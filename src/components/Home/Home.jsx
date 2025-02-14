@@ -7,7 +7,7 @@ export default function Home() {
     <>
       <Mainslider />
       <div className="ms-10 text-white  text-3xl  mb-14 font-bold mt-12">
-        POPULAR :
+        POPULAR ssssssssssss: AbolHoooolllll
       </div>
       <Movies />
     </>
